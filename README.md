@@ -18,7 +18,6 @@ Me gusta construir soluciones prácticas que mezclen **backend sólido** con **i
 - **Automatización SAC:** Asistente técnico vía WhatsApp con N8N para gestión de garantías.  
 - **Apps móviles:**  
   - *Runner Light* 🏃 – App para corredores de Polar con sistema de recompensas y logros.  
-  - *Hipereventos* – Plataforma de gestión de eventos deportivos.  
 - **Web apps:** Plataforma de directorio de tiendas con filtros por ciudad (Next.js + Vercel).  
 
 ---
@@ -31,8 +30,7 @@ Me gusta construir soluciones prácticas que mezclen **backend sólido** con **i
 ---
 
 ## 📫 Cómo contactarme
-- ✉️ Email: **yuliana.aguero.rondon@gmail.com**  
-- 🔗 Link centralizado: [link.me/pitufina1097](https://link.me/pitufina1097)  
+- ✉️ Email: **davidmarsant@gmail.com**  
 
 ---
 
